@@ -8,3 +8,7 @@
 ```
 var myVar = "Hello, world!";
 ```
+
+- [x] Complete classwork
+- [ ] Complete performance
+- [ ] Play around in Github
